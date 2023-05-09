@@ -1,0 +1,5 @@
+com/example/SpringRestMysqlCurd/Model/Book.class
+com/example/SpringRestMysqlCurd/Repository/BookRepository.class
+com/example/SpringRestMysqlCurd/Controller/BookController.class
+com/example/SpringRestMysqlCurd/SpringRestMysqlCurdApplication.class
+com/example/SpringRestMysqlCurd/Controller/BookRestTemplateController.class

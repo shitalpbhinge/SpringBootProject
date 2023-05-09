@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.SpringRestMysqlCurd.SpringRestMysqlCurdApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.117 s - in com.example.SpringRestMysqlCurd.SpringRestMysqlCurdApplicationTests

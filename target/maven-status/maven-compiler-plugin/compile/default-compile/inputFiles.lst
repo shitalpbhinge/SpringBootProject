@@ -1,0 +1,5 @@
+/home/inferyx/git/SpringBootProject/src/main/java/com/example/SpringRestMysqlCurd/Repository/BookRepository.java
+/home/inferyx/git/SpringBootProject/src/main/java/com/example/SpringRestMysqlCurd/SpringRestMysqlCurdApplication.java
+/home/inferyx/git/SpringBootProject/src/main/java/com/example/SpringRestMysqlCurd/Controller/BookRestTemplateController.java
+/home/inferyx/git/SpringBootProject/src/main/java/com/example/SpringRestMysqlCurd/Controller/BookController.java
+/home/inferyx/git/SpringBootProject/src/main/java/com/example/SpringRestMysqlCurd/Model/Book.java
